@@ -16,4 +16,4 @@ Em resumo:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Próximos passos
 
-Para incrementar esse projeto, pretendo desenvolver o código para que quando um novo arquivo de fatura seja incluído na pasta, o banco de dados atualize e inclua na tabela as novas informações. Fazer o tratamento desses dados (limpeza, formatação e transformação) e atualizar o dashboard com as informações das novas fatuas.
+Para incrementar esse projeto, pretendo desenvolver o código para que quando um novo arquivo de fatura seja incluído na pasta, o banco de dados atualize e inclua na tabela as novas informações. Fazer o tratamento desses dados (limpeza, formatação e transformação) e atualizar o dashboard com as informações das novas faturas.
